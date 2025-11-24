@@ -1,4 +1,3 @@
-// System ID: 2024272434
 package class5;
 
 public class encapsulation {
@@ -25,4 +24,5 @@ public class encapsulation {
         System.out.println("Contact:" + s.getContact());
     }
 }
+
 
