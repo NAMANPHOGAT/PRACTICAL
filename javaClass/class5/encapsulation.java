@@ -1,3 +1,4 @@
+// System ID: 2024272434
 package class5;
 
 public class encapsulation {
@@ -18,9 +19,10 @@ public class encapsulation {
 
     public static void main(String[] Args){
         encapsulation s = new encapsulation();
-        s.setName("Diksha");
+        s.setName("Naman");
         s.setContact(6584);
         System.out.println("Name:" + s.getName());
         System.out.println("Contact:" + s.getContact());
     }
 }
+
